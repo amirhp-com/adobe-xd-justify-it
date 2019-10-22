@@ -25,4 +25,4 @@ Install Plugin
 ==============================
 Download [Latest Installable Package ](https://github.com/amirhosseinhpv/adobe-xd-justify-it/releases) and simply double-click to open it using Adobe XD.
 
-Check out First Persian Plugin for Adobe XD! [Persian Lorem Ipusm](https://github.com/amirhosseinhpv/adobe-xd-lorem-saz/)
+Check out First Persian Plugin for Adobe XD! [Persian Lorem Ipusm](https://amirhosseinhpv.github.io/adobe-xd-lorem-saz/)
