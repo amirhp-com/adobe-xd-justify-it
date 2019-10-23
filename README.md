@@ -1,9 +1,14 @@
+<img src='https://github.com/amirhosseinhpv/adobe-xd-justify-it/releases/download/1.0.1/banner.png' />
+
 Adobe XD Align Justify Text
 ==============================
 
 For the very first time in the whole world !
 
 Programmed by [Amirhosseinhpv](https://amirhosseinhpv.ir/) in [BlackSwanLab](https://blackswanlab.ir/)
+
+Logo Design by [Saber Noori](https://www.instagram.com/Sabernoorii/)
+
 
 This is first plugin written for Adobe XD to align text objects as justified!
 
