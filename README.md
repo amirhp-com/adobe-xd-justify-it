@@ -1,4 +1,4 @@
-<img src='https://github.com/amirhosseinhpv/adobe-xd-justify-it/releases/download/1.0.1/banner.png' />
+<img src='banner.png' />
 
 Adobe XD Align Justify Text
 ==============================
